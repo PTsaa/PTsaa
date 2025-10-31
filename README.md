@@ -3,7 +3,7 @@
 
 Oopa, bão?
 
-Me chamo Pedro Araújo, sou estudante de Análise e Desenvolvimento de Sistemas pelo CEUB;
+Me chamo Pedro Araújo, sou estudante de Engenharia de Software pelo IESB.
 
 ### Ferramentas e Tecnologias
 
